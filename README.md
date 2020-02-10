@@ -9,8 +9,8 @@ It uses a markdown file with a very specific layout (see the [test markdown](tes
 Run with the markdown file you want to convert as the argument to the script.
 
 ```
-    $ yarn install
-    $ node index.js ./test-data/test.md
+$ yarn install
+$ node index.js ./test-data/test.md
 ```
 
 See the test markdown to see the layout. After running it will create (hopefully) a directory + index.html file in the [output](output) directory.
