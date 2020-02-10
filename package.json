@@ -1,0 +1,12 @@
+{
+  "name": "markdown-to-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "maintainers": ["Joseph Callaars <invoice.grey.online@callaa.rs>"],
+  "private": true,
+  "dependencies": {
+    "dayjs": "^1.8.20",
+    "markdown": "0.5.0"
+  }
+}
